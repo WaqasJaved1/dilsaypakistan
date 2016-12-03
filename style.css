@@ -1,3 +1,7 @@
+div , h1,h2,h3,h4,h5,h6,p{
+	font-family: 'Roboto', sans-serif;
+}
+
 .topbar{
 	padding: 20px;
 }
@@ -142,4 +146,25 @@ footer{
 
 .fb{
 	width: 100%;
+}
+
+.hot_heading{
+	border-bottom: 1px solid #dde2e4;
+	padding: 10px;
+	color: #475055;
+}
+
+.media-body{
+	color: #475055;
+}
+
+.img-big{
+	background-image: url("images/fashion.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 100%;
+}
+
+.current_hot{
+	color: #eb6b6b;
 }
