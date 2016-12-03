@@ -162,9 +162,27 @@ footer{
 	background-image: url("images/fashion.png");
 	background-size: 100%;
 	background-repeat: no-repeat;
-	height: 100%;
+	background-position: bottom right;
+	min-height: 500px;
 }
 
 .current_hot{
 	color: #eb6b6b;
+}
+
+.hot_img_text{
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	color: white;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	max-width: 250px;
+}
+
+
+.carousal_main{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #475055;
 }
