@@ -61,6 +61,7 @@ div , h1,h2,h3,h4,h5,h6,p{
 	color: #7d7d7d;
 	padding: 33px;
 	border-right: 1px solid #ced0d7;
+	background-color: white;
 }
 
 .inline{
@@ -163,7 +164,7 @@ footer{
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: bottom right;
-	min-height: 500px;
+	min-height: 90%;
 }
 
 .current_hot{
@@ -178,6 +179,14 @@ footer{
 	padding-bottom: 20px;
 	padding-right: 20px;
 	max-width: 250px;
+}
+
+.btn_view_more{
+	background-color: transparent;
+	border: 1px solid white;
+	color: white;
+	font-weight:lighter;
+	min-width: 120px
 }
 
 
