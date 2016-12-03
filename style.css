@@ -30,6 +30,10 @@ div , h1,h2,h3,h4,h5,h6,p{
 .search_icon{
 	padding-left: 15px; 
 }
+.img-responsive {
+    display:block;
+    margin:auto;
+}
 
 .search{
 	border-style: none;
@@ -206,4 +210,17 @@ footer{
 
 .card_img{
 	width: 100%;
+}
+.inline-block{
+	display: inline-block;
+}
+
+.registerNowButton{
+	background-color: green;
+    color: white;
+    border: none;
+    padding: 10px;
+}
+.registerModelForm{
+	width:100%;
 }
