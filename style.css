@@ -125,3 +125,21 @@ footer{
 	padding-left: 20px;
 	padding-right:20px;
 }
+
+.blue_banner{
+	background-color:#4fc6f8;
+	color: white;
+	min-height: 215px;
+	margin-bottom: 10px;
+	
+}
+
+.blue_banner_top{
+	border-bottom: 1px solid #7bd4fa;
+	padding: 20px 10px 20px 10px;
+
+}
+
+.fb{
+	width: 100%;
+}
